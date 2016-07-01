@@ -1,0 +1,6 @@
+framework module Pods_comicsTimofeeva {
+  umbrella header "Pods-comicsTimofeeva-umbrella.h"
+
+  export *
+  module * { export * }
+}
